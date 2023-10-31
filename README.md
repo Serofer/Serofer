@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [UNKNOWN_Game](https://github.com/Serofer/UNKNOWN)
 
-- 🌱 I’m currently learning **Python, Pygame, JavaScript, Bootstssrap**
+- 🌱 I’m currently learning **Python, Pygame, JavaScript, Bootstrap**
 
 - 🤝 I’m looking for help with [UNKNOWN_Game](https://github.com/Serofer/UNKNOWN)
 
