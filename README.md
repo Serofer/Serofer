@@ -3,7 +3,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serofer&label=Profile%20views&color=0e75b6&style=flat" alt="serofer" style ="margin:10 px;" /> </p>
 <hr>
-
+<img align="right" alt="Coding" width=30% src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif"/>
 
 - 🔭 I’m currently working on [UNKNOWN_Game](https://github.com/Serofer/UNKNOWN)
 
@@ -36,7 +36,7 @@
 
 <hr>
 <img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=Serofer&show_icons=true&theme=radical"/>
-<img align='right' width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=serofer&layout=compact" style="white-space:no-wrap;"/>
+<img align='right' width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=serofer&layout=compact"/>
 
 
 
