@@ -5,11 +5,9 @@
 <hr>
 <img align="right" alt="Coding" width=30% src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif"/>
 
-- 🔭 I’m currently working on [UNKNOWN_Game](https://github.com/Serofer/UNKNOWN)
+- 🔭 I’m currently working on a course from the Harvard University called [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 - 🌱 I’m currently learning **Python, Pygame, JavaScript, Bootstrap**
-
-- 🤝 I’m looking for help with [UNKNOWN_Game](https://github.com/Serofer/UNKNOWN)
 
 - ⚡ Fun fact **I love playing football**
 
