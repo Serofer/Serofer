@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serofer</h1>
-<h3 align="center">A passionate programmer and developer</h3>
+<h3 align="center">A passionate programmer and soon to be ETH student inlectrical engineering and information technology </h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serofer&label=Profile%20views&color=0e75b6&style=flat" alt="serofer" style ="margin:10 px;" /> </p>
 <hr>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a course from the Harvard University called [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-- 🌱 I’m currently learning **Python, Pygame, JavaScript, Bootstrap**
+- 🌱 I’m currently learning **Python, Vim, ArchLinux, Shell and SQL**
 
 - ⚡ Fun fact **I love playing football**
 
