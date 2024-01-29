@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serofer</h1>
 <h3 align="center">A passionate programmer and soon to be ETH student in electrical engineering and information technology </h3>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serofer&label=Profile%20views&color=0e75b6&style=flat" alt="serofer" style ="margin:10 px;" /> </p>
 <hr>
 <img align="right" alt="Coding" width=30% src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif"/>
 
