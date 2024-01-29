@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a course from the Harvard University called [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-- 🌱 I’m currently learning **Python, Vim, ArchLinux and Shell**
+- 🌱 I’m currently learning to develop an Android Applilcation using **Kotlin**
 
 - ⚡ Fun fact **I love playing football**
 
