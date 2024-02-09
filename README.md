@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a course from the Harvard University called [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-- 🌱 I’m currently learning to develop an Android Application using **Kotlin**
+- 🌱 I’m currently learning to develop an Android Application using **Flutter**
 
 - ⚡ Fun fact **I love playing football**
 
