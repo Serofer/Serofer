@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serofer</h1>
-<h3 align="center">A passionate programmer and soon to be ETH student in electrical engineering and information technology </h3>
+<h3 align="center">A passionate programmer and ETH student in electrical engineering and information technology </h3>
 <hr>
 <img align="right" alt="Coding" width=30% src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif"/>
 
